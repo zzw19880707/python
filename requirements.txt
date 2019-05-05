@@ -1,4 +1,6 @@
 django
+pymongo
 redis
 gunicorn
 django-heroku
+requests

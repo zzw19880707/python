@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Heroku
+venv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+getting-started/*
