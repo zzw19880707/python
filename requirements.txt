@@ -4,3 +4,4 @@ redis
 gunicorn
 django-heroku
 requests
+psycopg2
